@@ -9,3 +9,7 @@ A serverless web app built following an AWS tutorial.
 - API Gateway - REST API
 - DynamoDB - NoSQL database
 - IAM - Permissions management
+
+## Live Demo:
+⚠️ Resources have been deleted to avoid AWS charges. 
+Please refer to the screenshots below for the output.
